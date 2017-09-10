@@ -207,8 +207,8 @@ const theme = createTheme({
   yellow: "#EEB902",
   grey: "#474647"
 }, {
-    blue: "Montserrat",
-    yellow: "Helvetica"
+    primary: "Montserrat",
+    secondary: "Helvetica"
   });
 
 export default class Presentation extends React.Component {
