@@ -11,5 +11,5 @@
 ## How 
 1. ```git clone``` it
 2. ```yarn``` it (or ```npm install``` it)
-3. ```yarn start``` it (or ```npm start``` it. I use yarn. You should too... although npm is ok too.. I guess.. right?)
+3. ```yarn start``` (or ```npm install```)
 4. Have fun (props to [Spectacle](https://github.com/FormidableLabs/spectacle) for the Pacman down there...)!
