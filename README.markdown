@@ -1,5 +1,4 @@
-# ES6-7 presentation made with Spectacle and React for Clicksoftware
-
+# ES6-7 presentation made with Spectacle and React
 ## Reference
 
 #### Made with: 
